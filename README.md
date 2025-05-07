@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Rose</h1>
+<h1 align="center">Hi, I'm Rose 👋🏼</h1>
 <h3 align="center">A passionate React developer from Nepal</h3>
 
-- ⚡ Fun fact **I can crochet!🧶**
+<h2 align="center">✨✨✨✨</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
