@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rose</h1>
-<h3 align="center">A passionate React developer from Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 
 - 📫 How to reach me **rose.dangol23@gmail.com**
 
